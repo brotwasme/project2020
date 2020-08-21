@@ -1,0 +1,8 @@
+prior efffect on modeling look at: 
+			- speed (and efficency)
+			- acuracy
+	loop through model with diffrent prior ranges
+-size of priour range 
+-possibly also look at impossible priours (correct value not in range, by an amount) 
+-difrent priour shape (gaussian, with mean at correct place or off by amount, 2 peaked gaussian [representing 2 possible favourable solutions])
+-percentage based

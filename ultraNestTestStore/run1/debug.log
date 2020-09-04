@@ -1,0 +1,15 @@
+16:40:26 [ultranest] [INFO] PointStore: have 0 items
+16:40:26 [ultranest] [INFO] Sampling 400 live points from prior ...
+16:40:30 [ultranest] [DEBUG] minimal_widths_sequence: [(-inf, 400.0), (inf, 400.0)]
+16:41:00 [ultranest] [DEBUG] clustering found some stray points [need_accept=False] (array([1, 2, 3, 4, 5, 6]), array([384,   2,   1,   3,   5,   5], dtype=int64))
+16:43:31 [ultranest] [INFO] Explored until L=-2e+03  
+16:43:31 [ultranest] [INFO] Likelihood function evaluations: 9929
+16:43:31 [ultranest] [INFO] Writing samples and results to disk ...
+16:43:41 [ultranest] [INFO] Writing samples and results to disk ... done
+16:43:41 [ultranest] [DEBUG] did a run_iter pass!
+16:43:41 [ultranest] [INFO]   logZ = -1819 +- 0.1162
+16:43:42 [ultranest] [INFO] Effective samples strategy satisfied (ESS = 1924.9, need >400)
+16:43:42 [ultranest] [INFO] Posterior uncertainty strategy is satisfied (KL: 0.45+-0.09 nat, need <0.50 nat)
+16:43:42 [ultranest] [INFO] Evidency uncertainty strategy is satisfied (dlogz=0.26, need <0.5)
+16:43:42 [ultranest] [INFO]   logZ error budget: single: 0.17 bs:0.12 tail:0.01 total:0.12 required:<0.50
+16:43:42 [ultranest] [INFO] done iterating.
